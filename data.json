@@ -2,15 +2,15 @@
 {
 "province": "กระบี่",
 "total_case": "14574"
-},
+}
 {
 "province": "กรุงเทพมหานคร",
 "total_case": "514213"
-},
+}
 {
 "province": "กาญจนบุรี",
 "total_case": "27692"
-},
+}
 {
 "province": "กาฬสินธุ์",
 "total_case": "12718"
@@ -21,7 +21,7 @@
 },
 {
 "province": "ขอนแก่น",
-"total_case": "36640",
+"total_case": "36640"
 },
 {
 "province": "จันทบุรี",
